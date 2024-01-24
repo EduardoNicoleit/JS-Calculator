@@ -2,14 +2,6 @@
 
 A simple calculator web application built with HTML, CSS, and JavaScript.
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Usage](#usage)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Overview
 
 This calculator app provides a user-friendly interface for performing basic arithmetic operations. It features a responsive design, theme switching between dark and light modes, and the ability to copy the result to the clipboard.
@@ -26,3 +18,22 @@ This calculator app provides a user-friendly interface for performing basic arit
 
    ```bash
    git clone https://github.com/your-username/calculator-app.git
+
+## Installation
+
+No installation is required. Simply open the index.html file in your preferred web browser.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+## Fork the repository
+
+Create a new branch (git checkout -b feature/new-feature).
+Make your changes and commit them (git commit -m 'Add new feature').
+Push to the branch (git push origin feature/new-feature).
+Open a pull request.
+
+## License
+
+This project is licensed under the MIT License.
