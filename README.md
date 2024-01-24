@@ -4,45 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Calculator App README</title>
-  <style>
-    body {
-      font-family: "Ubuntu", sans-serif;
-      margin: 20px;
-    }
-
-    h1, h2, h3 {
-      color: var(--primary-color);
-    }
-
-    h2 {
-      margin-top: 20px;
-    }
-
-    p {
-      margin-bottom: 10px;
-    }
-
-    code {
-      background-color: #f1f5f9;
-      padding: 2px 4px;
-      border-radius: 4px;
-    }
-
-    pre {
-      background-color: #f1f5f9;
-      padding: 10px;
-      border-radius: 8px;
-      overflow-x: auto;
-    }
-
-    ul, ol {
-      margin-bottom: 10px;
-    }
-
-    li {
-      margin-bottom: 5px;
-    }
-  </style>
 </head>
 <body>
 
